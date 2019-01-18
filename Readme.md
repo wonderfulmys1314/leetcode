@@ -1,2 +1,2 @@
-Do what you can do\t
+Do what you can do
 Try your best
