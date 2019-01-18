@@ -1,2 +1,3 @@
-Do what you can do
-Try your best
+完成leetcode题目
+寻找破解问题的灵感
+沉浸到事务当中
