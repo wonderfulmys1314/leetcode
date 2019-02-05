@@ -76,6 +76,13 @@ class Solution:
 
 
 """
+我觉得这里之所以能够简化主要在于：
+模式中每次出现新的，就需要对b[j]进行更新
+情形可分为：
+    如果当前是“.”,后一位是“*”
+    如果当前不是”.”,后一位是“*”
+    如果后一位不是”*“
+
 class Solution:
     def isMatch(self, s, p):
         sn, pn = len(s), len(p)
